@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorGray">#bbbbbb</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteTender">#22ffffff</color>
+    <color name="colorWhiteTenders">#99ffffff</color>
+    <color name="colorClick">#337c7c7c</color>
+    <color name="colorGrayLitter">#f5f5f5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackTender">#88000000</color>
+    <color name="colorRed">#de5347</color>
+    <color name="colorYellow">#ffce43</color>
+    <color name="colorGrayDark">#666666</color>
+    <color name="colorGrayTender">#e5e5e5</color>
+    <color name="colorGrayTenders">#99e5e5e5</color>
+
+    <color name="colorGold">#FE6C00</color>
+    <color name="colorBlue">#1D6FF8</color>
+    <color name="colorBlueLitter">#BADAF8</color>
+    <color name="colorOrangeLitter">#FFF8EA</color>
+    <color name="colorAdvert">#ad3e37</color>
+    <color name="colorModule">#E8F2F7</color>
+
+    <color name="colorRedMore">#FF4B4C</color>
+    <color name="colorOwn">#009BDB</color>
+    <color name="colorBlueLight">#0FADFE</color>
+    <color name="colorOther">#D1D7DE</color>
+    <color name="colorPrimaryTender">#98F54934</color>
+
+    <color name="colorGreen">#29A600</color>
+    <color name="colorOrange">#FFCE45</color>
+    <color name="colorPink">#FAC3D6</color>
+</resources>
